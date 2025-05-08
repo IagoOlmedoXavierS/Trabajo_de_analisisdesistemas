@@ -1,0 +1,7 @@
+for(int i ; dato=="3";i++)
+{
+  print("elija 3 opciones")
+  print("saludar(1)")
+  print("decir la fecha(2)")
+  print("salir(3)")
+  dato = input();
